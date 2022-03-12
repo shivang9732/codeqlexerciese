@@ -1,7 +1,7 @@
 name: "Code Scanning - Action"
 
 on:
-  pull_request:
+  pull_request: 
     branches: [main]
 
 jobs:
