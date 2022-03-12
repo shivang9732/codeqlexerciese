@@ -1,3 +1,8 @@
+strategy:
+      fail-fast: false
+      matrix:
+        language: [ 'javascript','java' ]
+
 packs:
   # Use these packs for JavaScript analysis
   javascript:
